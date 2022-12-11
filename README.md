@@ -18,3 +18,14 @@ transfer, followed by creating outgoing links to existing or new
 users that would like to join the network, a process we call
 bailout. Both these processes together constitute our proposed
 rebalancing mechanism.
+
+# Citation
+``` @INPROCEEDINGS{9169442,
+  author={Subramanian, Lalitha Muthu and Vishwanathan, Roopa and Kolachala, Kartick},
+  booktitle={2020 IEEE International Conference on Blockchain and Cryptocurrency (ICBC)}, 
+  title={Balance Transfers and Bailouts in Credit Networks using Blockchains}, 
+  year={2020},
+  volume={},
+  number={},
+  pages={1-3},
+  doi={10.1109/ICBC48266.2020.9169442} ```
